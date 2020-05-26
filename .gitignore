@@ -1,0 +1,13 @@
+/log/*
+/data/*
+/tf_board/*
+/__pycache__/*
+/checkpoints/*
+/glove/*
+/demo/*
+*.pyc
+*.swp
+*.egg
+*.zip
+*._*
+venv/
