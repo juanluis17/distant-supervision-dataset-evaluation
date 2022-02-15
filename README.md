@@ -1,4 +1,4 @@
-##A critical look of the evaluation measures for Distant Supervision in Relation Extraction
+Risks of misinterpretation in the evaluation of Distant Supervision for Relation Extraction
 
 
 Source code for paper: [Risks of misinterpretation in the evaluation of Distant Supervision for Relation Extraction.] (Accepted in SEPLN). The code is based on that developed by [Vashishth _et. al._ (2018)](https://github.com/malllabiisc/RESIDE). Includes implementation of [RESIDE](http://aclweb.org/anthology/D18-1157), [PCNN](http://www.emnlp2015.org/proceedings/EMNLP/pdf/EMNLP203.pdf), [PCNN+ATT](https://www.aclweb.org/anthology/P16-1200), [CNN](https://www.aclweb.org/anthology/C14-1220), CNN+ATT, and [BGWA](https://arxiv.org/pdf/1804.06987.pdf) models.
