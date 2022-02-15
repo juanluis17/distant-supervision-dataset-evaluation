@@ -114,6 +114,7 @@ The structure of the processed input data is as follows.
 Please check the names of the trained models.
 For any clarification, comments, or suggestions please create an issue or contact [juanluis@inaoep.mx](https://github.com/juanluis17).
 
+<!--
 ### Citation:
 Please cite the following paper if you use this code in your work.
 ```bibtex
@@ -133,3 +134,4 @@ Please cite the following paper if you use this code in your work.
   url = 	"http://aclweb.org/anthology/D18-1157"
 }
 ```
+-->
